@@ -42,7 +42,11 @@ I'm especially interested in the intersection of **precision medicine**, **genom
 
 - 💡 **[SHAP Explainability Framework](https://github.com/OloryEbi/ML-and-survival-analysis-pipeline-for-Leukaemia.git)**  
   Model-agnostic interpretability for gene-level insights using SHAP values  
-  *(Explains feature importance across classifiers to support biomarker discovery)*  
+  *(Explains feature importance across classifiers to support biomarker discovery)*
+
+- 🧬 **[Functional Enrichment Analysis](https://github.com/OloryEbi/ML-and-survival-analysis-pipeline-for-Leukaemia.git)**  
+  Enrichment of Feature genes using DAVID Bioinformatics Resources and R-based visualization  
+  *(Gene Ontology, KEGG, Reactome, DISGENET; horizontal barplots of enriched terms using ggplot2 in R)*  
 
 - 📈 **[TCGA Survival Dashboard](https://github.com/OloryEbi/ML-and-survival-analysis-pipeline-for-Leukaemia.git)**   
   Prognostic modeling using TCGA-LAML cohort with survival analysis and gene-level insights  
