@@ -36,14 +36,20 @@ I'm especially interested in the intersection of **precision medicine**, **genom
 
 ## 📌 Featured Projects
 
-- 🔬 **[Leukemia ML Classifier]**  
+- 🔬 **[Leukemia ML Classifier](https://github.com/OloryEbi/ML-and-survival-analysis-pipeline-for-Leukaemia.git)**  
   Machine learning pipeline for early detection of leukemia from RNA-Seq data  
+  *(DESeq2, SMOTE, RF, XGBoost, SVM, LASSO, Neural Network, Cross validation)*  
 
-- 📈 **[TCGA Survival Dashboard]**  
-  Visual analytics dashboard showing survival impact of biomarkers in AML (Kaplan-Meier and Cox)
+- 💡 **[SHAP Explainability Framework](https://github.com/OloryEbi/ML-and-survival-analysis-pipeline-for-Leukaemia.git)**  
+  Model-agnostic interpretability for gene-level insights using SHAP values  
+  *(Explains feature importance across classifiers to support biomarker discovery)*  
 
+- 📈 **[TCGA Survival Dashboard](https://github.com/OloryEbi/ML-and-survival-analysis-pipeline-for-Leukaemia.git)**   
+  Prognostic modeling using TCGA-LAML cohort with survival analysis and gene-level insights  
+  *(Kaplan-Meier, Cox regression, forest plots, risk score, clinical outcome modeling)*  
+ 
  - 🧬 **[NGS Variant Filtering Tool]**  
-  Python-based tool for automating clinical variant filtration using COSMIC and ALARMUT
+  Python-based tool for automating clinical variant filtration using COSMIC and ALARMUT  
 
 ---
 
