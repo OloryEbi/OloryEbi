@@ -49,9 +49,9 @@ I'm especially interested in the intersection of **precision medicine**, **genom
 
 ## 📊 GitHub Stats
 
-![Abdulquadri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdulquadri&show_icons=true&theme=default&hide=issues,contribs&count_private=true)
+![OloryEbi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OloryEbi&show_icons=true&theme=default&hide=issues,contribs&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulquadri&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OloryEbi&layout=compact)
 
 ---
 
