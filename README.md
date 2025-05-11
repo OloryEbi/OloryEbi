@@ -69,6 +69,6 @@ I'm especially interested in the intersection of **precision medicine**, **genom
 
 - 📧 **Email:** abdulquadriabdulraheem92@gmail.com  
 - 💼 **LinkedIn:** [linkedin.com/in/abdulquadri-abdulraheem-olory-ebi-342a80219](https://www.linkedin.com/in/abdulquadri-abdulraheem-olory-ebi-342a80219?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-- 🌐 **GitHub:** [github.com/abdulquadri](https://github.com/OloryEbi)
+- 🌐 **GitHub:** [github.com/OloryEbi](https://github.com/OloryEbi)
 
 ---
