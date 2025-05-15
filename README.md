@@ -36,7 +36,7 @@ I'm especially interested in the intersection of **precision medicine**, **genom
 
 ## 📌 Featured Projects
 
-- 🔬 **[Leukemia ML Classifier](https://github.com/OloryEbi/ML-and-survival-analysis-pipeline-for-Leukaemia.git)**  
+- 🔬 **[Leukemia ML Classifier](https://github.com/OloryEbi/ML-and-survival-analysis-pipeline-for-Leukaemia/tree/main/1.scripts)**  
   Machine learning pipeline for early detection of leukemia from RNA-Seq data  
   *(DESeq2, SMOTE, RF, XGBoost, SVM, LASSO, Neural Network, Cross validation)*  
 
@@ -44,11 +44,11 @@ I'm especially interested in the intersection of **precision medicine**, **genom
   Model-agnostic interpretability for gene-level insights using SHAP values  
   *(Explains feature importance across classifiers to support biomarker discovery)*
 
-- 🧬 **[Functional Enrichment Analysis](https://github.com/OloryEbi/ML-and-survival-analysis-pipeline-for-Leukaemia.git)**  
+- 🧬 **[Functional Enrichment Analysis](https://github.com/OloryEbi/ML-and-survival-analysis-pipeline-for-Leukaemia//blob/main/1.scripts/05_enrichment_analysis.R)**  
   Enrichment of Feature genes using DAVID Bioinformatics Resources and R-based visualization  
   *(Gene Ontology, KEGG, Reactome, DISGENET; horizontal barplots of enriched terms using ggplot2 in R)*  
 
-- 📈 **[TCGA Survival Dashboard](https://github.com/OloryEbi/ML-and-survival-analysis-pipeline-for-Leukaemia.git)**   
+- 📈 **[TCGA Survival Dashboard](https://github.com/OloryEbi/ML-and-survival-analysis-pipeline-for-Leukaemia/tree/main/1.scripts)**   
   Prognostic modeling using TCGA-LAML cohort with survival analysis and gene-level insights  
   *(Kaplan-Meier, Cox regression, forest plots, risk score, clinical outcome modeling)*  
  
