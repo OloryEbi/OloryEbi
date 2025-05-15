@@ -40,7 +40,7 @@ I'm especially interested in the intersection of **precision medicine**, **genom
   Machine learning pipeline for early detection of leukemia from RNA-Seq data  
   *(DESeq2, SMOTE, RF, XGBoost, SVM, LASSO, Neural Network, Cross validation)*  
 
-- 💡 **[SHAP Explainability Framework](https://github.com/OloryEbi/ML-and-survival-analysis-pipeline-for-Leukaemia.git)**  
+- 💡 **[SHAP Explainability Framework](https://github.com/OloryEbi/ML-and-survival-analysis-pipeline-for-Leukaemia/blob/main/notebooks/AML_SHAP_Analysis.ipynb)**  
   Model-agnostic interpretability for gene-level insights using SHAP values  
   *(Explains feature importance across classifiers to support biomarker discovery)*
 
