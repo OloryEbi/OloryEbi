@@ -52,8 +52,9 @@ I'm especially interested in the intersection of **precision medicine**, **genom
   Prognostic modeling using TCGA-LAML cohort with survival analysis and gene-level insights  
   *(Kaplan-Meier, Cox regression, forest plots, risk score, clinical outcome modeling)*  
  
- - 🧬 **[NGS Variant Filtering Tool]**  
-  Python-based tool for automating clinical variant filtration using COSMIC and ALARMUT  
+ - 🧬 **[NGS Variant Filtration Tool](https://github.com/OloryEbi/NGS-Mock-Variant-Analysis/tree/main/1.scripts)**  
+ A Python-based clinical bioinformatics tool for automating somatic variant filtration in cancer genomics.  
+ *Utilizes curated databases like COSMIC and ALARMUT to prioritize and classify high-confidence variants in NGS pipelines.*  
 
 ---
 
