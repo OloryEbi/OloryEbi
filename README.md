@@ -1,6 +1,7 @@
-## Hi there, I'm Abdulquadri Abdulraheem 👋
+# Hi there, I'm Abdulquadri Abdulraheem 👋
+> *“Data is the lifeblood of science - Bioinformatics is how we give it a voice.”*
 
-## About Me
+## 🧑‍🔬 About Me
 I'm a **Bioinformatician** passionate about solving complex healthcare problems through advanced computational and analytical techniques. I specialize in **genomic data analysis**, **machine learning** and **biomedical informatics**, backed by a strong combination of academic and industrial experience.
 
 I enjoy developing reproducible pipelines for **RNA-Seq analysis**, **variant interpretation** and **disease prediction** using **Python**, **R** and widely adopted bioinformatics tools. My passion lies in transforming complex biological data into **clinically actionable insights** that support early diagnosis, targeted therapies and improved patient outcomes.
@@ -52,17 +53,35 @@ I'm especially interested in the intersection of **precision medicine**, **genom
   Prognostic modeling using TCGA-LAML cohort with survival analysis and gene-level insights  
   *(Kaplan-Meier, Cox regression, forest plots, risk score, clinical outcome modeling)*  
  
- - 🧬 **[NGS Variant Filtration Tool](https://github.com/OloryEbi/NGS-Mock-Variant-Analysis.git)**  
+ - 🧬 **[Mock Clinical Variant Analysis (NGS)](https://github.com/OloryEbi/NGS-Mock-Variant-Analysis.git)**  
  A Python-based clinical bioinformatics tool for automating somatic variant filtration in cancer genomics.  
  *Utilizes curated databases like COSMIC and ALARMUT to prioritize and classify high-confidence variants in NGS pipelines.*  
 
 ---
 
-## 📊 GitHub Stats
+## 🧰 Languages and Tools
+
+![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📊 GitHub Language Statistics
 
 ![OloryEbi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OloryEbi&show_icons=true&theme=default&hide=issues,contribs&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OloryEbi&layout=compact)
+
+> _Note: GitHub’s language breakdown is automatically generated based on all my public repositories. Because Jupyter Notebooks contain a large amount of metadata alongside Python code, they can disproportionately influence the language statistics._
+
+In reality, my work includes substantial R programming - with over 2,000 lines of R scripts focused on leukemia bioinformatics and machine learning pipelines, alongside Python notebooks.
+
+To get a more accurate picture of my coding experience by language, I use local code analysis tools such as [cloc](https://github.com/AlDanial/cloc), which confirms that **R accounts for the majority** of my bioinformatics workflow.
 
 ---
 
@@ -73,3 +92,5 @@ I'm especially interested in the intersection of **precision medicine**, **genom
 - 🌐 **GitHub:** [github.com/OloryEbi](https://github.com/OloryEbi)
 
 ---
+
+> *_Giving data a voice, one line of code at a time._*
