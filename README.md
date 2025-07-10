@@ -88,7 +88,7 @@ To get a more accurate picture of my coding experience by language, I use local 
 ## 📫 Let's Connect
 
 - 📧 **Email:** abdulquadriabdulraheem92@gmail.com  
-- 💼 **LinkedIn:** [linkedin.com/in/abdulquadri-abdulraheem-olory-ebi](https://www.linkedin.com/in/abdulquadri-abdulraheem-olory-ebi-342a80219)
+- 💼 **LinkedIn:** [linkedin.com/in/abdulquadri-olory-ebi](http://linkedin.com/in/abdulquadri-olory-ebi)
 - 🌐 **GitHub:** [github.com/OloryEbi](https://github.com/OloryEbi)
 
 ---
