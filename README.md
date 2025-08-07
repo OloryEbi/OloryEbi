@@ -35,7 +35,12 @@ I'm especially interested in the intersection of **precision medicine**, **genom
 
 ---
 
-## 📌 Featured Projects
+## 📌 Featured Projects  
+
+- 🕵 **[West Yorkshire Police Crime Trends (LIDA Task)](https://github.com/OloryEbi/Police-Reported-Crime-Trends-in-West-Yorkshire.git)**  
+Comprehensive data analysis of police-reported crime in West Yorkshire (Apr–Sep 2020)  
+Exploratory visualisation, KDE hotspot mapping, anomaly detection and spatial/temporal trend analysis  
+(Seaborn, Matplotlib, Pandas, KDE plots, stacked bars, urban LSOA crime profiling)  
 
 - 🔬 **[Leukemia ML Classifier](https://github.com/OloryEbi/ML-and-survival-analysis-pipeline-for-Leukaemia/tree/main/1.scripts)**  
   Machine learning pipeline for early detection of leukemia from RNA-Seq data  
