@@ -62,6 +62,13 @@ Exploratory visualisation, KDE hotspot mapping, anomaly detection and spatial/te
  A Python-based clinical bioinformatics tool for automating somatic variant filtration in cancer genomics.  
  *Utilizes curated databases like COSMIC and ALARMUT to prioritize and classify high-confidence variants in NGS pipelines.*  
 
+## Reproducibility
+- OS: Ubuntu 22.04
+- R version: 4.x
+- Python: 3.x
+- Package list: (link or file)
+- Random seeds fixed for ML experiments
+
 ---
 
 ## 🧰 Languages and Tools
